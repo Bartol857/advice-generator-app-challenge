@@ -14,6 +14,8 @@ const getAdvice = () => {
     })
 }
 
+//non axion version
+
 // const getAdvice = () => {
 // 	fetch(URL)
 // 		.then((res) => res.json())
