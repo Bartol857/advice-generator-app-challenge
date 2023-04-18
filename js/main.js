@@ -14,7 +14,7 @@ const getAdvice = () => {
     })
 }
 
-//non axion version
+//non axios version
 
 // const getAdvice = () => {
 // 	fetch(URL)
